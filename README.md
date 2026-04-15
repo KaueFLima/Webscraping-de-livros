@@ -1,4 +1,5 @@
 Esse repositório Contém dois arquivos, um realizado com o site Books to scrape e o outro realizado com o site Hacker News
+Os dois códigos são similares e foram reutilizados de projeto em projeto (Variavéis renomeadas, mas funções similares)
 
 Livros:
 Um script simples do Python que Utiliza BeautifulSoup e Requests + Funções built in do python para realizer Web Scraping de Livros no Site https://books.toscrape.com
